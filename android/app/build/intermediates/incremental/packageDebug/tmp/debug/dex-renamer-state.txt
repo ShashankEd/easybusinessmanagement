@@ -1,0 +1,4 @@
+#Sat Dec 12 16:32:16 IST 2020
+base.0=/Users/shashankgupta/research_work/reduxthunkdemonew/reduxdemo/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
