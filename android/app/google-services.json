@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "589551478939",
+    "firebase_url": "https://camerapicuploadtofirebasedbapp.firebaseio.com",
+    "project_id": "camerapicuploadtofirebasedbapp",
+    "storage_bucket": "camerapicuploadtofirebasedbapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589551478939:android:03ac5e80c3d334c5813e3e",
+        "android_client_info": {
+          "package_name": "com.reduxdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589551478939-vq5k3tf3lvcf49mjfqm7prujetu211gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Ow_7nSGs58R7o72ZU0Ndi6X0GLOIBAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589551478939-vq5k3tf3lvcf49mjfqm7prujetu211gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

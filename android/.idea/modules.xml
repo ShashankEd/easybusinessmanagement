@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1811113501/@react-native-firebase_crashlytics.iml" filepath="$PROJECT_DIR$/.idea/modules/1811113501/@react-native-firebase_crashlytics.iml" group="reduxdemo/@react-native-firebase_crashlytics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1477826735/@react-native-firebase_dynamic-links.iml" filepath="$PROJECT_DIR$/.idea/modules/1477826735/@react-native-firebase_dynamic-links.iml" group="reduxdemo/@react-native-firebase_dynamic-links" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="reduxdemo/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/250312632/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/250312632/react-native-community_async-storage.iml" group="reduxdemo/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2005958006/react-native-firebase_analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/-2005958006/react-native-firebase_analytics.iml" group="reduxdemo/react-native-firebase_analytics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/497590565/react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/497590565/react-native-firebase_app.iml" group="reduxdemo/react-native-firebase_app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1793480932/react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/1793480932/react-native-firebase_auth.iml" group="reduxdemo/react-native-firebase_auth" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1811113501/react-native-firebase_crashlytics.iml" filepath="$PROJECT_DIR$/.idea/modules/1811113501/react-native-firebase_crashlytics.iml" group="reduxdemo/react-native-firebase_crashlytics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1477826735/react-native-firebase_dynamic-links.iml" filepath="$PROJECT_DIR$/.idea/modules/1477826735/react-native-firebase_dynamic-links.iml" group="reduxdemo/react-native-firebase_dynamic-links" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-752676414/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-752676414/react-native-gesture-handler.iml" group="reduxdemo/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1711947526/react-native-keychain.iml" filepath="$PROJECT_DIR$/.idea/modules/1711947526/react-native-keychain.iml" group="reduxdemo/react-native-keychain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2134246630/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-2134246630/react-native-reanimated.iml" group="reduxdemo/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-987812989/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-987812989/react-native-screens.iml" group="reduxdemo/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-918234807/react-native-snackbar.iml" filepath="$PROJECT_DIR$/.idea/modules/-918234807/react-native-snackbar.iml" group="reduxdemo/react-native-snackbar" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/380644692/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/380644692/react-native-vector-icons.iml" group="reduxdemo/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reduxdemo.iml" filepath="$PROJECT_DIR$/.idea/modules/reduxdemo.iml" group="reduxdemo" />
+    </modules>
+  </component>
+</project>
